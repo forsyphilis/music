@@ -7,3 +7,7 @@
 
 - synth
 - https://en.wikipedia.org/wiki/ARP_Odyssey
+
+
+- free
+- http://codex.upa.nyc/patches-and-samples/freakatone-fx-volume-1/
